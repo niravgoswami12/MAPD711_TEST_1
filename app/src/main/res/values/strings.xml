@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NiravGoswami_MAPD711_Test</string>
+    <string name="app_title">407 ETR Toll Calculator</string>
+
+    <string name="vehicle_size">Vehicle Size</string>
+    <string name="light_vehicle">Light Vehicle</string>
+    <string name="heavy_vehicle">Heavy Vehicle</string>
+    <string name="heavy_multi_vehicle">Heavy Multi Vehicle</string>
+
+    <string name="distance_title_24_km">Distance (Less than 24 Km)</string>
+    <string name="km">Km</string>
+
+    <string name="time_of_day">Time of Day</string>
+    <string name="direction">Direction</string>
+    <string name="east_bound">East Bound</string>
+    <string name="west_bound">West Bound</string>
+    <string name="transponder">Transponder</string>
+    <string name="load_online_calculator">Load Online Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="distance">Distance</string>
+    <string name="toll">Toll</string>
+
+</resources>
